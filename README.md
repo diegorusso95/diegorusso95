@@ -1,4 +1,3 @@
-## About Me
 🖥️ Computer engineer <br> ✉️ diego.russo1331@gmail.com
 
 ## 🌐 Link
