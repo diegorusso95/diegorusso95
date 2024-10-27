@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 
-I'm a PhD student in **Technology, Innovation and Management (TIM)** at the University of Bergamo (UniBg), where I research **Recommender Systems**. My work focuses on creating transparent AI frameworks that build user trust and improve recommendation reliability. I’m especially interested in understanding and mitigating the impact of recommendations on **Online Social Networks**, including effects like echo chambers and polarization.
+I'm a PhD student in **Technology, Innovation and Management (TIM)** at the **University of Bergamo (UniBg)**, where I research **Recommender Systems**. My work focuses on creating transparent AI frameworks that build user trust and improve recommendation reliability. I’m especially interested in understanding and mitigating the impact of recommendations on **Online Social Networks**, including effects like echo chambers and polarization.
 
 ---
 
