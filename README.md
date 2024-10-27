@@ -46,5 +46,5 @@ I'm a PhD student in **Technology, Innovation and Management (TIM)** at the Univ
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn**: [Diego Russo]([https://www.linkedin.com/in/tuo-profilo/](https://www.linkedin.com/in/diego-russo-566911298/)
+- **LinkedIn**: [Diego Russo](https://www.linkedin.com/in/diego-russo-566911298/)
 - **Email**: diego.russo1331@gmail.com
